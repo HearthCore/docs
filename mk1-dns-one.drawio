@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.1.1">
+  <diagram id="TA9rIfcH-ccHXT7T5k1k" name="Seite-1">
+    <mxGraphModel dx="1030" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-80" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" target="m61-4IklUjNRgXYC9Dpz-82" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-81" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" target="m61-4IklUjNRgXYC9Dpz-83" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-82" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" value="NS1" vertex="1">
+          <mxGeometry height="60" width="100" x="304" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-83" parent="1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" value="NS2" vertex="1">
+          <mxGeometry height="60" width="100" x="424" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-84" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="*.madkind.one" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-86" edge="1" parent="1" source="m61-4IklUjNRgXYC9Dpz-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m61-4IklUjNRgXYC9Dpz-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-87" edge="1" parent="1" source="m61-4IklUjNRgXYC9Dpz-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m61-4IklUjNRgXYC9Dpz-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-85" parent="1" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" value="Internal DNS" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-88" parent="1" style="fillColor=#C82128;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.designate_recordset;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="210" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="m61-4IklUjNRgXYC9Dpz-89" parent="1" style="fillColor=#C82128;aspect=fixed;sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.openstack.designate_zone;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="210" y="245" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
